@@ -1,6 +1,4 @@
-# SEND SMS PART
-
-## Android Automation
+# Android Automation
 ### Motivation: Automate and schedule tasks such as SMS messaging via a web application AND/OR the application itself.
 
 ## User Stories:
@@ -14,3 +12,5 @@
 * A user should be able to see, on the web application, a list of all of the contacts that are currently on the phone application uploaded them.
 * A user should be able to see, on the web application, thumbnails of the pictures that are currently on the phone.
 * A user should be able to remotely send text messages to a phone number, where the phone number can be defined on the web dashboard.
+
+#### Update 2/1 - SMS Application completed
