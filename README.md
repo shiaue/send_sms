@@ -13,4 +13,21 @@
 * A user should be able to see, on the web application, thumbnails of the pictures that are currently on the phone.
 * A user should be able to remotely send text messages to a phone number, where the phone number can be defined on the web dashboard.
 
+### Final Product
+### UI
+* Sidebar menu to select automation tool
+* tabbed design for each tool
+
+### Web Application
+* REST API
+* Express
+* 
+* Jhipster
+Entities define the objects to be stored on the database.
+Automatically generates sophistcated code for the project
+
+
 #### Update 2/1 - SMS Application completed
+
+#### Meeting 2/1
+* Prompts user on SMS send
