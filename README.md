@@ -27,7 +27,3 @@ Entities define the objects to be stored on the database.
 Automatically generates sophistcated code for the project
 
 
-#### Update 2/1 - SMS Application completed
-
-#### Meeting 2/1
-* Prompts user on SMS send
