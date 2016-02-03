@@ -46,6 +46,7 @@
             android:hint="@string/SMS_Message"
             android:inputType="textMultiLine"
             android:id="@+id/editTextSMS"
+            android:maxLength="160"
             />
 
     </android.support.design.widget.TextInputLayout>
