@@ -1,4 +1,4 @@
-package elton.sendsms;
+package elton.sendsms.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 import android.support.design.widget.TextInputLayout;
+
+import elton.sendsms.R;
 
 
 public class MainActivity extends AppCompatActivity {
