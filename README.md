@@ -1,5 +1,6 @@
 # Android Automation
-### Motivation: Automate and schedule tasks such as SMS messaging via a web application AND/OR the application itself.
+
+### Motivation: Automate and schedule tasks such as SMS messaging via a web application or the mobile application.
 
 ## User Stories:
 
@@ -13,17 +14,20 @@
 * A user should be able to see, on the web application, thumbnails of the pictures that are currently on the phone.
 * A user should be able to remotely send text messages to a phone number, where the phone number can be defined on the web dashboard.
 
+
 ### Final Product
+
 ### UI
-* Sidebar menu to select automation tool
-* tabbed design for each tool
+* Homepage to select tool (potemtially a sidebar as well?)
+* Tabbed design for each tool
 
-### Web Application
-* REST API
-* Express
-* 
+
+
+### Web Application with Docker
 * Jhipster
-Entities define the objects to be stored on the database.
-Automatically generates sophistcated code for the project
-
+	* Entities define the objects to be stored on the database.
+	* Automatically generates sophistcated code for the project
+* Docker
+	* VM Container
+	* Acts as hosted webserver
 
