@@ -16,3 +16,6 @@
 * Jhipster webapp to connect with the android app
 * clean up ui
 * Validate / format phone number field
+
+#### Meeting 2/10
+
